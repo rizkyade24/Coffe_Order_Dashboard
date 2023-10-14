@@ -8,4 +8,6 @@ Next, you design stunning data visualizations. For example, you use line and are
 Finally, I provide an interactive filter facility, allowing users to filter the data as per their preferences. In this way, this dashboard not only provides information, but also empowers users to explore and analyze data as per their needs.
 
 With my expertise and understanding of using Excel, I have created an effective tool for managing and analyzing coffee sales data.
+
+
 ![image](https://github.com/rizkyade24/Coffe_Order_Dashboard/assets/76718182/1aed5d5d-a556-4bad-91d9-7f45107e9b5a)
